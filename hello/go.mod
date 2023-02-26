@@ -1,4 +1,4 @@
-module pradeepnnv/goactionsdemo
+module hello
 
 go 1.19
 
